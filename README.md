@@ -27,10 +27,10 @@ Los datos utilizados en este proyecto provienen de fuentes oficiales de acceso p
 Departamento Administrativo Nacional de Estadística (DANE):
 Proyecciones de población municipal y departamental.
 Códigos DIVIPOLA.
-Archivos geográficos shapefile.
+Archivos geográficos shapefile (Descarga desde el Geoportal del DANE:
+https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/datos-geoestadisticos/ Versión MGN2023-Nivel Municipio).
 Los archivos fueron limpiados y transformados previamente en Excel para su integración en el análisis.
 Fiscalía General de la Nación:
-Conteo de procesos por hurto.
-Información descargada desde la plataforma oficial de datos abiertos en formato CSV.
+Conteo de procesos por hurto (Descargar desde el portal de datos abiertos https://www.datos.gov.co/Justicia-y-Derecho/Conteo-de-Procesos-V2/6d52-qyqg/about_data)
 # Licencia
 Este proyecto se publica con fines académicos.

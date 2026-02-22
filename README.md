@@ -27,6 +27,7 @@ Los datos utilizados en este proyecto provienen de fuentes oficiales de acceso p
 Departamento Administrativo Nacional de Estadística (DANE):
 Proyecciones de población municipal y departamental.
 Códigos DIVIPOLA.
+Archivos geográficos shapefile.
 Los archivos fueron limpiados y transformados previamente en Excel para su integración en el análisis.
 Fiscalía General de la Nación:
 Conteo de procesos por hurto.

@@ -32,5 +32,9 @@ https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/datos-geoestadistic
 Los archivos fueron limpiados y transformados previamente en Excel para su integración en el análisis.
 Fiscalía General de la Nación:
 Conteo de procesos por hurto (Descargar desde el portal de datos abiertos https://www.datos.gov.co/Justicia-y-Derecho/Conteo-de-Procesos-V2/6d52-qyqg/about_data)
+# Autores
+Sharon Manuela Castillo Botero
+Hernán Darío Fuentes Gómez
+Heriberto Salgado Romero
 # Licencia
 Este proyecto se publica con fines académicos.
